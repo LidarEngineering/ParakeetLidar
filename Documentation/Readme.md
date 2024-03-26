@@ -1,3 +1,5 @@
 This folder contains documentation for the Parakeet Lidar and the Parakeet Zone Controller
-New Parakeet Test Viewer Version Added April 26, 2023
-New Parakeet Zone COntroller Added March 26, 2024
+
+New Parakeet Test Viewer DocumentAdded April 26, 2023
+
+New Parakeet Zone Controller Document Added March 26, 2024
